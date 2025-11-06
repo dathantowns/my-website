@@ -12,13 +12,13 @@ function Services() {
       codeLink: "https://github.com/dathantowns/SATIAI.git",
     },
     {
-      title: "WTWR",
+      title: "Studio Landing Page",
       description:
-        "A full-stack weather application that displays current conditions and appropriate clothing recommendations using external APIs.",
-      technologies: ["React", "Node.js", "MongoDB", "Express"],
-      image: "🌤️",
-      demoLink: "https://wtwrwtwr.crabdance.com",
-      codeLink: "https://github.com/dathantowns/WTWR.git",
+        "A responsive landing page for a creative studio showcasing services and portfolio.",
+      technologies: ["React", "Vite", "CSS3"],
+      image: "🎵",
+      demoLink: "https://www.cosmicsoundstudios.com",
+      codeLink: "https://github.com/dathantowns/cosmicsound-frontend.git",
     },
     {
       title: "Portfolio Website",
@@ -28,6 +28,15 @@ function Services() {
       image: "💼",
       demoLink: "#",
       codeLink: "#",
+    },
+    {
+      title: "WTWR",
+      description:
+        "A full-stack weather application that displays current conditions and appropriate clothing recommendations using external APIs.",
+      technologies: ["React", "Node.js", "MongoDB", "Express"],
+      image: "🌤️",
+      demoLink: "https://wtwrwtwr.crabdance.com",
+      codeLink: "https://github.com/dathantowns/WTWR.git",
     },
   ];
 
