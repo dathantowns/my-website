@@ -1,11 +1,14 @@
 import "./Header.css";
+import daylogo from "../../assets/daylogo-blue.png";
 
 function Header() {
   return (
     <>
       <header>
         <nav>
-          <h1>Dathan Towns</h1>
+          <a className="logo" href="#home">
+            <img src={daylogo} alt="Day Logo" />
+          </a>
           <ul>
             <li>
               <a href="#home">Home</a>
